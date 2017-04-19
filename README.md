@@ -1,4 +1,7 @@
-# test coverage for  [botbuilder (v3.7.0)](https://github.com/Microsoft/BotBuilder#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-botbuilder.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-botbuilder) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-botbuilder.svg)](https://travis-ci.org/npmtest/node-npmtest-botbuilder)
+# npmtest-botbuilder
+
+#### basic test coverage for  [botbuilder (v3.7.0)](https://github.com/Microsoft/BotBuilder#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-botbuilder.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-botbuilder) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-botbuilder.svg)](https://travis-ci.org/npmtest/node-npmtest-botbuilder)
+
 #### Bot Builder is a dialog system for building rich bots on virtually any platform.
 
 [![NPM](https://nodei.co/npm/botbuilder.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/botbuilder)
